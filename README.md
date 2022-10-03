@@ -45,7 +45,26 @@
      
      
      
- ### 3) Text Editors    
+ ### 3) Text Editors   
+ 
+ 
+ * Vi Vim   
+ * Emacs    
+ * nano    
+ * gedit    
+ * kwrite     
+
+
+
+####  History    
+
+   : To see previous command history   
+   
+   
+   
+   
+   
+   
      
      
      
