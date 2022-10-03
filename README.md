@@ -16,9 +16,9 @@
 
 ### 2) Permissions    
 
-  ## - rwx rwx rwx   
+  ## - / rwx / rwx / rwx   
     
-  ### File_type Owner Group Others    
+  ### File_type / Owner / Group / Others    
     
     
   ### **chmod**    
@@ -30,18 +30,18 @@
   #### Ex)   
    
   + 777   :  rwxrwxrwx   
-  + 700   :  rwx------     
+  + 700   :  rwx\------     
   + 666   :  rw-rw-rw    
   + 644   :  rw-r--r--    
-  + 600   :  rw------    
+  + 600   :  rw\------    
     
     
     
-    ## Superuser    
+  ## Superuser    
     
-    ### sudo    
+  ### sudo    
      
-     :All system administation authority.    
+      :All system administation authority.    
      
      
      
