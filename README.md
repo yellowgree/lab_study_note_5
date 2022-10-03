@@ -11,24 +11,24 @@
 
 ### 2) Permissions    
 
-    ## - rwx rwx rwx   
+  ## - rwx rwx rwx   
     
-    ### File_type Owner Group Others    
-    
-    
-    ### **chmod**    
-    
-    :changes permissions    
+  ### File_type Owner Group Others    
     
     
+  ### **chmod**    
+   
+  :changes permissions    
     
-    #### Ex)   
     
-    + 777   :  rwxrwxrwx   
-    + 700   :  rwx------     
-    + 666   :  rw-rw-rw    
-    + 644   :  rw-r--r--    
-    + 600   :  rw------    
+    
+  #### Ex)   
+   
+  + 777   :  rwxrwxrwx   
+  + 700   :  rwx------     
+  + 666   :  rw-rw-rw    
+  + 644   :  rw-r--r--    
+  + 600   :  rw------    
     
     
     
